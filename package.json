@@ -1,0 +1,15 @@
+{
+  "name": "node-thap-technical",
+  "version": "1.0.0",
+  "description": "Learning Backend",
+  
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
