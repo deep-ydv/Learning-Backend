@@ -2,7 +2,7 @@
   "name": "node-thap-technical",
   "version": "1.0.0",
   "description": "Learning Backend",
-  
+  "type": "module",
   "main": "app.js",
   "scripts": {
     "test": "app.js"
